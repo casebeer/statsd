@@ -8,7 +8,7 @@ Here's a bunch of example code contributed by the communinty for interfacing wit
     StatsdClient.java - JAVA
     csharp_example.cs - C#
     php-example.php   - PHP
-    python_example.py - Python
+    statsd.py         - Python
     ruby_example.rb   - Ruby
     statsd.erl        - Erlang
 
